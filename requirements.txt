@@ -1,0 +1,1 @@
+# No dependencies needed - we're just serving static files
